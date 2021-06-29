@@ -1,3 +1,7 @@
+This is a fork of https://github.com/hanyazou/BMI160-Arduino in the effort to make it compatible with ESP32 on PlatformIO. For me it's working with no issues so far. To install this library into your project, add `https://github.com/bastian2001/BMI160-Arduino-1` into your `platform.ini`'s  `lib_deps`.
+
+If you have any issues, don't hesitate to ask, but please don't expect me to fix things. This is first and foremost just for me and people where hanyazou's library doesn't work and this "just works".
+
 # BMI160-Arduino
 
 This driver is for BMI160 6DoF sensor breakout boards which are connected through the Arduino SPI.
